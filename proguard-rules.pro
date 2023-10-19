@@ -11,7 +11,7 @@
 
 -repackageclasses ''
 
--obfuscationdictionary 彩铭羽
--classobfuscationdictionary 彩铭羽
--packageobfuscationdictionary 彩铭羽
--renamesourcefileattribute 彩铭羽
+-obfuscationdictionary 彩銘羽
+-classobfuscationdictionary 彩銘羽
+-packageobfuscationdictionary 彩銘羽
+-renamesourcefileattribute 彩銘羽

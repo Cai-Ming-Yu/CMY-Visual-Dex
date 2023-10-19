@@ -1,4 +1,4 @@
-# 彩铭羽 Visual Dex
+# 彩銘羽 Visual Dex
 Dexファイルをより微妙な方法で難読化する！
 
 Obfuscate Dex files even more by setting the contents of the file "proguard-rules.pro"!
@@ -12,7 +12,7 @@ Obfuscate Dex files even more by setting the contents of the file "proguard-rule
 -packageobfuscationdictionary FILE
 -renamesourcefileattribute FILE
 ```
-- For more confusion optimization, please download the "proguard-rules.pro" file and the "彩铭羽" file of this project. They contain more obfuscation optimizations
+- For more confusion optimization, please download the "proguard-rules.pro" file and the "彩銘羽" file of this project. They contain more obfuscation optimizations
 
 You can use the file by, for example, adding the following code to "build.gradle" in your project's app.
 ``` gradle

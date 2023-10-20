@@ -6,7 +6,7 @@ Obfuscate Dex files even more by setting the contents of the file "proguard-rule
 ## How to use
 - Change your class package name to empty: ```-repackageclasses ''```.
 - Use a custom obfuscation dictionary to obfuscate your class name and content: 
-``` pro
+``` proguard
 -obfuscationdictionary FILE
 -classobfuscationdictionary FILE
 -packageobfuscationdictionary FILE
@@ -15,7 +15,7 @@ Obfuscate Dex files even more by setting the contents of the file "proguard-rule
 - For more confusion optimization, please download the "proguard-rules.pro" file and the "彩銘羽" file of this project. They contain more obfuscation optimizations
 
 You can use the file by, for example, adding the following code to "build.gradle" in your project's app.
-``` gradle
+``` groovy
 android {
     buildTypes {
         release {
